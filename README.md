@@ -1,0 +1,1 @@
+Olá, meu nome é Paulo Henrique, e esse projeto consiste de uma página simples de portifólio pessoa criada a partir de HTML/CSS para apresentar um pouco sobre quem sou, quais são meus objetivos, e quais são minhas experiências. Deixo também e-mail para contato ao fim da página e algumas informações sobre mim! 
