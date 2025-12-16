@@ -20,4 +20,5 @@ pre{
     font-weight: bold;
     border-style: solid;
     border-radius: 15px;
+    display: inline-block;
 }
