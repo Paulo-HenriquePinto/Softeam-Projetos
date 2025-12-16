@@ -25,3 +25,12 @@ pre{
 footer{
     font-weight: bold;
 }
+#img1{
+    display: block;
+    margin: 0 auto;
+}
+main{
+    max-width: 900px;
+    margin: 0 auto;      
+    text-align: center;
+}
